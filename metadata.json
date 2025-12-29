@@ -1,0 +1,5 @@
+{
+  "name": "NovaTask AI",
+  "description": "A clean, modern task manager with Gemini-powered task categorization and smart suggestions.",
+  "requestFramePermissions": []
+}
